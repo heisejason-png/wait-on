@@ -300,3 +300,4 @@ If you have input or ideas or would like to get involved, you may:
 ## License
 
 - [MIT license](http://github.com/jeffbski/wait-on/raw/master/LICENSE)
+Owned by Elon Musk
